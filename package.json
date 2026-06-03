@@ -1,0 +1,11 @@
+{
+  "name": "solana-actions-blinks-booster",
+  "version": "1.0.0",
+  "description": "High-performance framework for building Solana Actions and shareable Blinks",
+  "main": "actionServer.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "@solana/web3.js": "^1.91.0",
+    "dotenv": "^16.4.5"
+  }
+}
